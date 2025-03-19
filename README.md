@@ -27,7 +27,7 @@ Este projeto tem o objetivo de **simular um ataque DDOS** a um endereço IP, út
 
 3. **Execute o código**
    ```bash
-   python script.py
+   python main.py
    ```
 ---
 
